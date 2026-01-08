@@ -30,13 +30,13 @@ The dashboard is designed for hospital management and operations teams to monito
 ![Revenue perfomance](https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Dashboard.png)
 
  2️⃣ Patient
-![Patient Experience](https://github.com/saju1997/Hospital-Analytics-Dashboard/blob/60605619b8a35abbf761f30155b3ead81b14b7c9/Dashboard%20Images/patient.png)
+![Patient Experience](https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Patient.jpeg)
 
  3️⃣ Doctor
-![Doctor](https://github.com/saju1997/Hospital_Analytics_Dashboard1/blob/18de77babfe1d64530f07cf97034f5fffd09847a/Images/Doctors.png)
+![Doctor](https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Doctor.jpeg)
 
  4️⃣ Department
-![Department](https://github.com/saju1997/Hospital_Analytics_Dashboard1/blob/fc59a89d2b30d77c4a415e916601a1405fb32f08/Dashboard%20Images/Department.png)
+![Department](https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Department.png)
 
 ---
 
