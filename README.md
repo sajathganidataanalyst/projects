@@ -27,7 +27,7 @@ The dashboard is designed for hospital management and operations teams to monito
  📊 Dashboard Preview
 
  1️⃣ Revenue Perfomance
-![Revenue perfomance](https://github.com/saju1997/Hospital_Analytics_Dashboard1/edit/main/images/Dashboard.jpeg)
+![Revenue perfomance]([https://github.com/saju1997/Hospital_Analytics_Dashboard1/edit/main/images/Dashboard.jpeg)](https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Dashboard.png)
 
  2️⃣ Patient
 ![Patient Experience](https://github.com/saju1997/Hospital-Analytics-Dashboard/blob/60605619b8a35abbf761f30155b3ead81b14b7c9/Dashboard%20Images/patient.png)
