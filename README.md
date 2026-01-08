@@ -1,62 +1,52 @@
-# projects
-Project Portfolio
- Restaurant-sales-dashboard
+📁 Projects Portfolio
+🏥 Hospital Analytics Dashboard | Power BI
+📌 Project Overview
 
- 🏥 Hospital Analytics Dashboard | Power BI
-
- 📌 Project Overview
-This project demonstrates how hospital operational and financial data can be transformed into
-clear, decision-ready insights using Power BI.
+This project demonstrates how hospital operational and financial data can be transformed into clear, decision-ready insights using Power BI.
 
 The dashboard is designed for hospital management and operations teams to monitor:
-- Patient experience
-- Operational efficiency
-- Revenue performance
-- Department and doctor-wise trends
 
----
+Patient experience
 
- 🎯 Business Questions Answered
-- How does waiting time impact patient satisfaction?
-- Which departments generate the highest revenue?
-- What are the patient demographics and visit patterns?
-- Which doctors handle the highest patient volume?
+Operational efficiency
 
----
+Revenue performance
 
- 📊 Dashboard Preview
+Department- and doctor-wise trends
 
- 1️⃣ Revenue Perfomance
-![Revenue perfomance](https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Dashboard.png)
+🎯 Business Questions Answered
 
- 2️⃣ Patient
-![Patient Experience](https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Patient.jpeg)
+How does waiting time impact patient satisfaction?
 
- 3️⃣ Doctor
-![Doctor](https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Doctor.jpeg)
+Which departments generate the highest revenue?
 
- 4️⃣ Department
-![Department](https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Department.png)
+What are the patient demographics and visit patterns?
 
----
+Which doctors handle the highest patient volume?
 
- 🛠 Tools & Skills Used
-- Power BI (DAX, data modeling, interactive visuals)
-- KPI & MIS reporting
-- Data cleaning & transformation
-- Business storytelling with data
+📊 Dashboard Preview
+1️⃣ Revenue Performance
+<img src="https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Dashboard.png" width="900"/>
+2️⃣ Patient Experience
+<img src="https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Patient.jpeg" width="900"/>
+3️⃣ Doctor Analysis
+<img src="https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Doctor.jpeg" width="900"/>
+4️⃣ Department Performance
+<img src="https://github.com/sajathganidataanalyst/projects/blob/main/hospital/images/Department.png" width="900"/>
+🛠 Tools & Skills Used
 
----
+Power BI (DAX, data modeling, interactive visuals)
 
- 📂 Files
-- 📄 PBIX file: `pbix/hospital_analytics.pbix`
-- 📊 Dashboard images: `dashboards/`
-- 📁 Sample data: `data/` (if applicable)
+KPI & MIS reporting
 
----
+Data cleaning & transformation
 
- 📌 Key Takeaway
-This project focuses on analytics that supports real management decisions —
-not just visualization.
+Business storytelling with data
 
-📩 Open to roles in Data Analytics / MIS / Business Intelligence.
+📂 Files
+
+📄 Power BI file: pbix/hospital_analytics.pbix
+
+📊 Dashboard images: hospital/images/
+
+📁 Sample data: data/ (if applicable)
